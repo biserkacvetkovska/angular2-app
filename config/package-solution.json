@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "angular-2-app-client-side-solution",
+    "id": "9233693b-cc89-47cf-8df2-4778f6efecd5",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/angular-2-app.spapp"
+  }
+}
